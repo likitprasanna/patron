@@ -1,4 +1,4 @@
-package com.ngo_owner.ngo_owner;
+package com.ngo_request.ngo_request;
 
 /**
  * Created by USER on 11-11-2015.
